@@ -1,0 +1,1 @@
+This is a little project that is supposed to be simulating a semi strict password checker using an alert method. Also added a fun little seceret to it because why not. View the file contents or run the file to find out!
